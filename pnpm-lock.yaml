@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       '@tenhaw/ai-roi':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.1
+        version: 1.0.1
       '@tenhaw/core':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.1
+        version: 1.0.1
       '@tenhaw/usecase-register':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.1
+        version: 1.0.1
       next:
         specifier: 16.4.5
         version: 16.4.5(@playwright/test@1.65.1)(@types/node@22.20.5)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -578,16 +578,16 @@ packages:
   '@swc/helpers@0.5.23':
     resolution: {integrity: sha512-5lSsMOTXURePglDfvuAQUqkGek9Hg2kksOYay2m0+XR++b2NWYL/4sWyuvVBIs8oKnJaxkdi9whaL/sqN13afw==}
 
-  '@tenhaw/ai-roi@1.0.0':
-    resolution: {integrity: sha512-hpqgfEqKvvveezBp5ozmfAenKrXLtY87jiEKFxNEBTusZXPS+dkXEKOnZx4LB+gKl/+oFr19EnVral/io7Iy+w==}
+  '@tenhaw/ai-roi@1.0.1':
+    resolution: {integrity: sha512-xbA6lXgwjJsbkxCKLgtcZK7jbOPtn5g7V5gMYvD3sGBhDNVvPgU8QGcsIoAdsj026YLpcREAUMOm2o8PiPZ/TA==}
     engines: {node: '>=22'}
 
-  '@tenhaw/core@1.0.0':
-    resolution: {integrity: sha512-0k2+kuhYFZUniU8/gd1367E1yqC6N2suj7tOrM391v+1+15/jySR36WWWsMCnG2T7taXgkTm0BR/2PgTfPd0FQ==}
+  '@tenhaw/core@1.0.1':
+    resolution: {integrity: sha512-LpLBvR5cxygnSTQgc3hNgM/JUJDIrO9J7hZs0xcuqPPuEywJDH9wSqHORUo48aRW612UOt+1+wrrnpb6O7iUCw==}
     engines: {node: '>=22'}
 
-  '@tenhaw/usecase-register@1.0.0':
-    resolution: {integrity: sha512-WPLhxzNUE+a+BBNDr+DM7Q2htxP1N3SN8R4+94mrEZaQ2JH07qIey5tpSmz32EjhCgfVn9Y7V9D8v8KqqBF8Ew==}
+  '@tenhaw/usecase-register@1.0.1':
+    resolution: {integrity: sha512-YZmDUtFs8IxsC6XHchXPQkuDRYIyZMpYMGMRLk+0LjlV6ESMvtjE5dUoTmbE74qYWZC/jy9GSgQPjNlRMRhVvg==}
     engines: {node: '>=22'}
 
   '@types/chai@5.2.3':
@@ -1286,18 +1286,18 @@ snapshots:
     dependencies:
       tslib: 2.9.1
 
-  '@tenhaw/ai-roi@1.0.0':
+  '@tenhaw/ai-roi@1.0.1':
     dependencies:
-      '@tenhaw/core': 1.0.0
+      '@tenhaw/core': 1.0.1
 
-  '@tenhaw/core@1.0.0':
+  '@tenhaw/core@1.0.1':
     dependencies:
       ajv: 8.20.0
       ajv-formats: 3.0.1(ajv@8.20.0)
 
-  '@tenhaw/usecase-register@1.0.0':
+  '@tenhaw/usecase-register@1.0.1':
     dependencies:
-      '@tenhaw/core': 1.0.0
+      '@tenhaw/core': 1.0.1
 
   '@types/chai@5.2.3':
     dependencies:

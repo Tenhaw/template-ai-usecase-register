@@ -1,4 +1,7 @@
+strictDepBuilds: true
+allowBuilds:
+  esbuild: true
 minimumReleaseAgeExclude:
-  - '@tenhaw/ai-roi@1.0.0'
-  - '@tenhaw/core@1.0.0'
-  - '@tenhaw/usecase-register@1.0.0'
+  - '@tenhaw/ai-roi@1.0.1'
+  - '@tenhaw/core@1.0.1'
+  - '@tenhaw/usecase-register@1.0.1'

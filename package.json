@@ -1,7 +1,8 @@
 {
   "name": "@tenhaw-template/ai-usecase-register",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
+  "packageManager": "pnpm@11.25.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -14,9 +15,9 @@
     "next": "16.4.5",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "@tenhaw/core": "1.0.0",
-    "@tenhaw/usecase-register": "1.0.0",
-    "@tenhaw/ai-roi": "1.0.0"
+    "@tenhaw/core": "1.0.1",
+    "@tenhaw/usecase-register": "1.0.1",
+    "@tenhaw/ai-roi": "1.0.1"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
@@ -29,6 +30,5 @@
   "license": "MIT",
   "author": "Tenhaw (https://tenhaw.com)",
   "homepage": "https://kit.tenhaw.com/templates/ai-usecase-register/",
-  "type": "module",
-  "packageManager": "pnpm@11.25.0"
+  "type": "module"
 }
